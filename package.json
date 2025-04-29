@@ -1,0 +1,13 @@
+{
+  "name": "orderkuota-webhook",
+  "version": "1.0.0",
+  "main": "orderkuota-webhook.js",
+  "scripts": {
+    "start": "node orderkuota-webhook.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "moment-timezone": "^0.5.34"
+  }
+}
